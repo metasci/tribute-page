@@ -1,0 +1,79 @@
+body {
+	background-image: url(http://wallpapercave.com/wp/kkRxLRO.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.home{
+	font-family: 'Special Elite';
+	margin: auto;
+	padding-top: 100px; 
+	padding-bottom: 100px;
+}
+
+.home h1 {
+	color: rgb(0, 204, 0);
+	font-size: 200px;
+	text-shadow: -4px 2px 6px #fff, -4px 2px 2px #00ff00;
+}
+
+.home h2 {
+	font-size: 75px;
+	text-shadow: -2px 2px 4px #fff;
+}
+
+
+
+.image img {
+	border: 2px solid;
+	border-radius: 25px;
+	margin: auto;
+}
+
+.image .container {
+	background-color: rgba(255, 255, 255, .6);
+	border-radius: 25px;
+	font-family: anton;
+	margin-top: 10px;
+	padding: 20px;
+}
+
+.timeline .container {
+	background-color: rgba(255, 255, 255, .6);
+	border-radius: 25px;
+	font-family: anton;
+	font-size: 17px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+}
+
+.timeline li {
+	font-size: 25px;
+	font-weight: bold;
+	list-style-type: none;
+}
+
+.quote .container {
+	background-color: rgba(255, 255, 255, .6);
+	border-radius: 25px;
+	margin: 20px auto;
+	font-family: 'special elite';
+}
+
+footer {
+	background-color: #333333;
+	padding: 35px;
+}
+
+footer .container {
+	margin: auto 0;
+}
+
+footer .portfolio {
+	color: white;
+	font-family: Bangers;
+	font-size: 25px;
+}
